@@ -39,7 +39,9 @@ The three axes (x, y, and z) show log2foldChanges upon the respective stress.
 - log2(HS / NHS)
 - log2(90i / Ci)
 - log2(R6 / WT)
+<br>
 NHS = non heat shock control
+<br>
 Ci = vector control for HSP990
 
 <br>
