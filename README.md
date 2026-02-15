@@ -3,15 +3,15 @@
 ## Welcome to 3D Stress Cube. 
 
 ----------------
-   INFO  
-----------------
+  ** INFO  **
+
 
 3D Stress Cube is a simple visualisation tool that can be opened in a web browser. 
 It displays expression changes in polyA+ RNA upon three protein damaging stress conditions
+----------------
 
 
-
-|==   USAGE  ==|
+**   USAGE  **
 
 
 1) Download File_S1.zip
@@ -20,9 +20,10 @@ It displays expression changes in polyA+ RNA upon three protein damaging stress 
 4) Open the 3D_stressCube_minDistance_1p5.html file in a web browser
 
 The 3D Stress Cube allows rotation and zooming. Each data point represents an RNA. Pointing the cursor on a datapoint displays an infobox.
+----------------
 
 
-|==   RNA expression changes  ==|
+**   RNA expression changes  **
 
 
 The 3D Stress cube compares stress-induced changes in polyA+ RNA expression caused by three proteo-toxic conditions in mouse striatal muscle:
@@ -36,11 +37,11 @@ The three axes (x, y, and z) show log2foldChanges upon the respective stress.
 - log2(R6 / WT)
 NHS = non heat shock control
 Ci = vector control for HSP990
+----------------
 
 
 
-
-|==   ORIGINAL WORK  ==|
+**   ORIGINAL WORK  **
 
 
 The original data is from Neueder et al., 2017 (PMID: 28465506) in mouse striatal muscle (WT and R6/2 mice).
@@ -48,10 +49,10 @@ The original data is from Neueder et al., 2017 (PMID: 28465506) in mouse striata
 The analysis and the 3D Stress Cube are described in Rabenius et al., 2026 (PMID: 41619802).
 - The 3D Stress Cube provided for browsing contain RNAs with a minimum of total log2FC 1.5
 - The Original article (PMID: 28465506) provides a Supplememntal Dataset with all expressed RNAs.
+----------------
 
 
-
-|==   CITATION and further information   ==|
+**   CITATION and further information   **
 
 Rabenius et al., 2026, Cell Stress Chaperones (PMID: 41619802)
 https://doi.org/10.1016/j.cstres.2026.100146
