@@ -3,7 +3,7 @@
 ## Welcome to 3D Stress Cube. 
 
 
-##### __INFO__
+##### **INFO**
 
 
 3D Stress Cube is a simple visualisation tool that can be opened in a web browser. 
