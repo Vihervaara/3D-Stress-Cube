@@ -54,9 +54,10 @@ Ci = vector control for HSP990
 
 The original data is from Neueder et al., 2017 (PMID: 28465506), mouse striatal muscle (WT and R6/2 mice).
 
-The analysis and the 3D Stress Cube are described in Rabenius et al., 2026 (PMID: 41619802).
+The 3D Stress Cube is described in Rabenius et al., 2026 (PMID: 41619802).
 - The 3D Stress Cube provided for browsing contain RNAs with a minimum of total log2FC 1.5
 - The Original article (PMID: 28465506) provides a Supplememntal Dataset with all expressed RNAs.
+- Visualisation was done with plotly (Sievert, 2020, https://plotly-r.com).
 
 <br>
 <br>
