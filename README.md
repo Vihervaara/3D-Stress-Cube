@@ -1,6 +1,6 @@
 ![Logo](https://github.com/Vihervaara/3D-Stress-Cube/blob/main/3DstressCube_Logo.png)
 
-Welcome to use 3D Stress Cube. 
+#Welcome to 3D Stress Cube. 
 
 This is a simple visualisation tool that can be opened in a web browser. 
 
