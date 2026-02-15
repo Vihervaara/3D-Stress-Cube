@@ -1,4 +1,4 @@
-![Logo](/Users/molgenlab/Pictures/3DstressCube_Logo.png)
+![Logo](https://github.com/Vihervaara/3D-Stress-Cube/blob/main/3DstressCube_Logo.png)
 
 Welcome to use 3D Stress Cube. 
 
