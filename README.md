@@ -16,8 +16,8 @@ It displays expression changes in polyA+ RNA upon three protein damaging stress 
 ##### __USAGE__
 
 
-1) Download File_S1.zip
-2) Unzip the downloaded File_S1.zip file
+1) Download the file: File_S1.zip
+2) Unzip it
 3) Navigate into the opened folder
 4) Open the 3D_stressCube_minDistance_1p5.html file in a web browser
 
