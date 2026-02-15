@@ -1,7 +1,7 @@
 ![Logo](https://github.com/Vihervaara/3D-Stress-Cube/blob/main/3DstressCube_Logo.png)
 
 ## Welcome to 3D Stress Cube. 
-
+ 
 
 ##### **INFO**
 
