@@ -27,7 +27,7 @@ The 3D Stress Cube allows rotation and zooming. Each data point represents an RN
 <br>
 
 
-#####__RNA expression changes__
+#####__RNA EXPRESSION CHANGES__
 
 
 The 3D Stress cube compares stress-induced changes in polyA+ RNA expression caused by three proteo-toxic conditions in mouse striatal muscle:
