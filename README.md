@@ -30,7 +30,7 @@ The 3D Stress Cube allows rotation and zooming. Each data point represents an RN
 ##### __RNA EXPRESSION CHANGES__
 
 
-The 3D Stress cube compares stress-induced changes in polyA+ RNA expression caused by three proteo-toxic conditions in mouse striatal muscle:
+The 3D Stress cube compares changes in polyA+ RNA expression caused by three proteotoxic stresses in mouse striatal muscle:
 - HS: Heat Shock (42°C)
 - i90: HSP90 inhibition (HSP990)
 - R6: polyQ aggregation (R6/2 mouse model of Huntington's Disease)
