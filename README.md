@@ -9,7 +9,7 @@ __INFO__
 3D Stress Cube is a simple visualisation tool that can be opened in a web browser. 
 It displays expression changes in polyA+ RNA upon three protein damaging stress conditions
 
--
+<br>
 
 
 __USAGE__
@@ -22,7 +22,7 @@ __USAGE__
 
 The 3D Stress Cube allows rotation and zooming. Each data point represents an RNA. Pointing the cursor on a datapoint displays an infobox.
 
--
+<br>
 
 
 __RNA expression changes__
@@ -40,7 +40,7 @@ The three axes (x, y, and z) show log2foldChanges upon the respective stress.
 NHS = non heat shock control
 Ci = vector control for HSP990
 
-
+<br>
 
 
 __ORIGINAL WORK__
@@ -52,7 +52,7 @@ The analysis and the 3D Stress Cube are described in Rabenius et al., 2026 (PMID
 - The 3D Stress Cube provided for browsing contain RNAs with a minimum of total log2FC 1.5
 - The Original article (PMID: 28465506) provides a Supplememntal Dataset with all expressed RNAs.
 
-
+<br>
 
 __CITATION and further information__
 
