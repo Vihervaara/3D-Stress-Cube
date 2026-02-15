@@ -2,9 +2,9 @@
 
 ## Welcome to 3D Stress Cube. 
 
-
-|==   INFO   ==|
-
+----------------
+   INFO  
+----------------
 
 3D Stress Cube is a simple visualisation tool that can be opened in a web browser. 
 It displays expression changes in polyA+ RNA upon three protein damaging stress conditions
