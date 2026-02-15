@@ -8,7 +8,7 @@ __INFO__
 
 3D Stress Cube is a simple visualisation tool that can be opened in a web browser. 
 It displays expression changes in polyA+ RNA upon three protein damaging stress conditions
-
+--
 
 
 __USAGE__
@@ -20,7 +20,7 @@ __USAGE__
 4) Open the 3D_stressCube_minDistance_1p5.html file in a web browser
 
 The 3D Stress Cube allows rotation and zooming. Each data point represents an RNA. Pointing the cursor on a datapoint displays an infobox.
-
+--
 
 
 __RNA expression changes__
