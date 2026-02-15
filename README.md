@@ -56,8 +56,8 @@ The original data is from Neueder et al., 2017 (PMID: 28465506), mouse striatal 
 
 The 3D Stress Cube is described in Rabenius et al., 2026 (PMID: 41619802).
 - The 3D Stress Cube provided for browsing contain RNAs with a minimum of total log2FC 1.5
-- The Original article (PMID: 28465506) provides a Supplememntal Dataset with all expressed RNAs.
-- Visualisation was done with plotly (Sievert, 2020, https://plotly-r.com).
+- The Original article (PMID: 28465506) provides a Supplemental Dataset with all expressed RNAs.
+- The 3D Stress Cube was generated with plotly (Sievert, 2020, https://plotly-r.com).
 
 <br>
 <br>
